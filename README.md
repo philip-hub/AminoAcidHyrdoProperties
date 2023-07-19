@@ -1,0 +1,1 @@
+# AminoAcidHyrdoProperties
